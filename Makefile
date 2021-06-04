@@ -1,4 +1,4 @@
-all:
+testtall:
 	./build/build.sh
 forced-clean:
 	./build/clean.sh --force
